@@ -4,8 +4,9 @@
 		<Metadata name="Catalog.Номенклатура" id="f63c7ce7-653d-486c-a454-9967f8bf1e4e" configVersion="2d3f6745e756c945a0503952c771fc4200000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ПолноеНаименование" id="c52d1915-b116-4c4c-863c-8edbfc7be379"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="7b1ca4d6-e411-4a91-8de5-136b4ee2352a" configVersion="e6ac8a7a9968e042bdb6468ef527ba2c00000000"/>
+		<Metadata name="Catalog.Серии" id="a12ba821-c8a1-442c-93a9-fe824ebd6336" configVersion="5c18a95a988a054b8d3350f34e80724d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="7b1ca4d6-e411-4a91-8de5-136b4ee2352a" configVersion="79dd83dfe42a6a46aec4a8a11597af1b00000000"/>
 		<Metadata name="Language.Русский" id="1cc2e320-70a4-43d7-8f12-553e13f378e9" configVersion="ba58edc0b127054a904db2920096ddfd00000000"/>
-		<Metadata name="Subsystem.НСИ" id="79de37bc-5d0c-4961-a17a-9e164802f4b3" configVersion="3f453264dd4ba44c9cdc2de45603e75400000000"/>
+		<Metadata name="Subsystem.НСИ" id="79de37bc-5d0c-4961-a17a-9e164802f4b3" configVersion="2d6196ce097a2943a3cf29e483f932b000000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

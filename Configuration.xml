@@ -243,6 +243,7 @@
 			<Language>Русский</Language>
 			<Subsystem>НСИ</Subsystem>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>Серии</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
