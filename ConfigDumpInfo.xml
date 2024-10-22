@@ -4,6 +4,6 @@
 		<Metadata name="Catalog.Номенклатура" id="f63c7ce7-653d-486c-a454-9967f8bf1e4e" configVersion="78fb641c6b630e4babc6c1b83796763d00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="7b1ca4d6-e411-4a91-8de5-136b4ee2352a" configVersion="e6ac8a7a9968e042bdb6468ef527ba2c00000000"/>
 		<Metadata name="Language.Русский" id="1cc2e320-70a4-43d7-8f12-553e13f378e9" configVersion="ba58edc0b127054a904db2920096ddfd00000000"/>
-		<Metadata name="Subsystem.Подсистема1" id="79de37bc-5d0c-4961-a17a-9e164802f4b3" configVersion="48196125df9c374d98169041e29616b000000000"/>
+		<Metadata name="Subsystem.НСИ" id="79de37bc-5d0c-4961-a17a-9e164802f4b3" configVersion="3f453264dd4ba44c9cdc2de45603e75400000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

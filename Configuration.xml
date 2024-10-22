@@ -241,7 +241,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>Подсистема1</Subsystem>
+			<Subsystem>НСИ</Subsystem>
 			<Catalog>Номенклатура</Catalog>
 		</ChildObjects>
 	</Configuration>
