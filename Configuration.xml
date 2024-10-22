@@ -241,6 +241,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Подсистема1</Subsystem>
+			<Catalog>Номенклатура</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
