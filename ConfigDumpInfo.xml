@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
-		<Metadata name="Catalog.Номенклатура" id="f63c7ce7-653d-486c-a454-9967f8bf1e4e" configVersion="12e0ae43eb25df4d98716b539dcade2b00000000">
+		<Metadata name="Catalog.Номенклатура" id="f63c7ce7-653d-486c-a454-9967f8bf1e4e" configVersion="4ce917e9fb198948a4244534c2f978e300000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ПолноеНаименование" id="c52d1915-b116-4c4c-863c-8edbfc7be379"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура.ObjectModule" id="f63c7ce7-653d-486c-a454-9967f8bf1e4e.0" configVersion="a3444183d5075e44bdddabcbdd9f151200000000"/>
-		<Metadata name="Catalog.Серии" id="a12ba821-c8a1-442c-93a9-fe824ebd6336" configVersion="e3293c63ff148e43a9e154e25355cbac00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="7b1ca4d6-e411-4a91-8de5-136b4ee2352a" configVersion="6486b3686084524a89551f7f9f58d32700000000"/>
-		<Metadata name="Language.Русский" id="1cc2e320-70a4-43d7-8f12-553e13f378e9" configVersion="87338f2e6925fb40b034fbab5fef070500000000"/>
-		<Metadata name="Subsystem.НСИ" id="79de37bc-5d0c-4961-a17a-9e164802f4b3" configVersion="68bf6914b148aa4aa46dddb4a04541ec00000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="f63c7ce7-653d-486c-a454-9967f8bf1e4e.0" configVersion="50e9ff19d2959247802124c0dc03039a00000000"/>
+		<Metadata name="Catalog.Серии" id="a12ba821-c8a1-442c-93a9-fe824ebd6336" configVersion="1c9d044dd185584198b3926f60a7117d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="7b1ca4d6-e411-4a91-8de5-136b4ee2352a" configVersion="2c080a60d039d44eadda03b2e15d449c00000000"/>
+		<Metadata name="Language.Русский" id="1cc2e320-70a4-43d7-8f12-553e13f378e9" configVersion="960c7b7bb0206c46b90288be147d9bfe00000000"/>
+		<Metadata name="Subsystem.НСИ" id="79de37bc-5d0c-4961-a17a-9e164802f4b3" configVersion="7e18e0ec032e55428d1f0fd4c8912de200000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
